@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GoekhanDev
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C#, JS & C/C++
 - 📫 How to reach me contact@gökhan.dev
 
 <!---
